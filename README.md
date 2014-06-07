@@ -3,16 +3,16 @@ Resume
 
 `updated_at: 2014-06-07`
 
-
+```
 name: 深谷 篤生 / Atsuo Fukaya
 age: 27
 live_in: Shibuya / Tokyo
 email: fukayatsu@gmail.com
-blog: http://blog.fukayatsu.com/
+blog: http://blog.fukayatsu.com
 github: https://github.com/fukayatsu
 twitter: https://twitter.com/fukayatsu
 facebook: https://www.facebook.com/fukayatsu
-
+```
 
 ### Education Experience
 - 2006-04 東北大学工学部 機械知能・航空工学科 入学
