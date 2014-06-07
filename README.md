@@ -3,8 +3,9 @@ Resume
 
 `updated_at: 2014-06-07`
 
-
 ### Basic Info
+
+![](https://raw.githubusercontent.com/fukayatsu/about/master/images/me.jpg)
 
 - name: 深谷 篤生 / Atsuo Fukaya
 - age: 27
@@ -75,10 +76,10 @@ Resume
     - privateリポジトリで開発中ですが、興味があればお知らせ下さい
         - keywords: Rails, heroku, CircleCI, idobata
 
-# LTs
+# Presentations
 - [Presentations by fukayatsu // Speaker Deck](https://speakerdeck.com/fukayatsu)
 
-# gems
+# RubyGems
 - https://rubygems.org/profiles/fukayatsu
 
 # chrome extensions & apps
