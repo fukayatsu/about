@@ -3,16 +3,17 @@ Resume
 
 `updated_at: 2014-06-07`
 
-```
-name: 深谷 篤生 / Atsuo Fukaya
-age: 27
-live_in: Shibuya / Tokyo
-email: fukayatsu@gmail.com
-blog: http://blog.fukayatsu.com
-github: https://github.com/fukayatsu
-twitter: https://twitter.com/fukayatsu
-facebook: https://www.facebook.com/fukayatsu
-```
+
+### Basic Info
+
+- name: 深谷 篤生 / Atsuo Fukaya
+- age: 27
+- live_in: Shibuya / Tokyo
+- email: fukayatsu@gmail.com
+- blog: http://blog.fukayatsu.com
+- github: https://github.com/fukayatsu
+- twitter: https://twitter.com/fukayatsu
+- facebook: https://www.facebook.com/fukayatsu
 
 ### Education Experience
 - 2006-04 東北大学工学部 機械知能・航空工学科 入学
@@ -44,23 +45,27 @@ facebook: https://www.facebook.com/fukayatsu
         - gemのメンテナンス
 
 ### Latest Private projects
-- pplog
-    - ボエム共有サイト
-    - https://pplog.net/
-    - 2014-03頃から細かい修正をpull-request
-- pplog for Android
-    - 本体側の通知関連の実装なども。
-    - http://bit.ly/pplog-android
-- 寿司ゆき関連プロダクト
-    - bit.ly/lttm-crx
+- pplog 関連プロダクト
+    - 本体
+        - https://pplog.net/ ポエム共有サイト
+        - 2014-03頃から細かい修正をpull-request
+            - emoji導入等
+    - pplog chrome app
+        - pplogのデスクトップクライアント
+        - https://github.com/fukayatsu/pplog-chrome-app
+    - pplog for Android
+        - http://bit.ly/pplog-android
+        - 本体側の通知関連の機能も実装。
+- 寿司ゆき関連プロダクト (http://awayuki.net/sushiyuki/)
+    - http://bit.ly/lttm-crx TextAreaでお寿司の入力補完をする
     - https://github.com/fukayatsu/alfred-sushiyuki
     - https://github.com/fukayatsu/idobata-sushiyuki
-    - https://github.com/fukayatsu/lita-sushiyuki
+    - https://github.com/fukayatsu/lita-sushiyuki hubot-sushiyukiの移植
 - Lita(hubot likeなRuby製のchatbotフレームワーク)関連プロダクト
-    - https://github.com/fukayatsu/lita-idobata
-    - https://github.com/fukayatsu/lita-twitter
-    - https://github.com/fukayatsu/lita-pebbles
-    - https://github.com/fukayatsu/lita-reviewer-lotto
+    - https://github.com/fukayatsu/lita-idobata idobata用adapter
+    - https://github.com/fukayatsu/lita-twitter twitter用adapter
+    - https://github.com/fukayatsu/lita-pebbles lita用handler詰め合わせ
+    - https://github.com/fukayatsu/lita-reviewer-lotto hubot-reviewer-lotto の移植
     - https://github.com/fukayatsu/twitter-fkbot
         - https://twitter.com/fuka_bot_ 検証を兼ねたtwitter bot
 - esa.io
@@ -70,6 +75,16 @@ facebook: https://www.facebook.com/fukayatsu
     - privateリポジトリで開発中ですが、興味があればお知らせ下さい
         - keywords: Rails, heroku, CircleCI, idobata
 
+# LTs
+- [Presentations by fukayatsu // Speaker Deck](https://speakerdeck.com/fukayatsu)
+
+# gems
+- https://rubygems.org/profiles/fukayatsu
+
+# chrome extensions & apps
+- extensions: https://chrome.google.com/webstore/search-extensions/fukayatsu
+- apps: https://chrome.google.com/webstore/search-apps/fukayatsu
+- apps generator: https://chrome-apps-generator.herokuapp.com/
 
 ### likes
 - ドックフーディングできるもの、環境
