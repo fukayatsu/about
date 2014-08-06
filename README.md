@@ -62,6 +62,8 @@ Resume
     - https://github.com/fukayatsu/alfred-sushiyuki
     - https://github.com/fukayatsu/idobata-sushiyuki
     - https://github.com/fukayatsu/lita-sushiyuki hubot-sushiyukiの移植
+    - [ほげゆき for Android](https://play.google.com/store/apps/details?id=com.fukayatsu.hogeyuki&hl=ja)
+        - 写真に〇〇ゆきの顔を合成するアプリ
 - Lita(hubot likeなRuby製のchatbotフレームワーク)関連プロダクト
     - https://github.com/fukayatsu/lita-idobata idobata用adapter
     - https://github.com/fukayatsu/lita-twitter twitter用adapter
