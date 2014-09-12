@@ -23,17 +23,17 @@ Resume
 - 2010-04 東北大学工学研究科 量子エネルギー工学専攻 入学
 - 2011-03 東北大学工学研究科 量子エネルギー工学専攻 休学
 - 2012-03 東北大学工学研究科 量子エネルギー工学専攻 中退
-    - 中退理由: ソフトウェアエンジニアとして仕事していく決心がついたため。
+    - 中退理由: 就職
 
 
 ### Work Experience
 - 2011-03 - 2011-07 株式会社サイバーエージェント アルバイト(フルタイム)
     - 女性向け写真共有アプリ(Android)の開発
     - keywords: Android, Java
-- 2011-08 - 2012-07 株式会社サイバーエージェント 正社員
+- 2011-08 - 2012-07 株式会社サイバーエージェント エンジニア
     - コミュニティアプリプラットフォームAPIの開発
     - keywords: Java, Jetty, node.js, CoffeeScript, オンプレミス
-- 2012-08 - 2014-08 株式会社ピースオブケイク　正社員
+- 2012-08 - 2014-08 株式会社ピースオブケイク　エンジニア
     - https://cakes.mu (電子雑誌プラットフォーム) の開発・運用
         - CakePHP 2.xからRails 4.への移行
         - 機能全般(特に決済処理周り)
@@ -44,6 +44,9 @@ Resume
     - 開発環境整備
         - Github, Jenkins, hipchat, chatbotの導入・運用など
         - gemのメンテナンス
+- 2014-09 - now KAIZEN platform Inc.
+    -  https://planb.cd
+        - Ruby, Rails, CoffeeScript, AWS
 
 ### Latest Private projects
 - pplog 関連プロダクト
